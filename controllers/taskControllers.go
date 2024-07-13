@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"github.com/Prateek462003/trello-backend/Models"
-	"github.com/Prateek462003/trello-backend/database"
+	"github.com/Prateek462003/backend-go/Models"
+	"github.com/Prateek462003/backend-go/database"
 	"github.com/gin-gonic/gin"
 	"log"
 	"net/http"

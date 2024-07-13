@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/Prateek462003/trello-backend/controllers"
-	"github.com/Prateek462003/trello-backend/database"
+	"github.com/Prateek462003/backend-go/controllers"
+	"github.com/Prateek462003/backend-go/database"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 

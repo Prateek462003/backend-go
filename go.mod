@@ -1,4 +1,4 @@
-module github.com/Prateek462003/trello-backend
+module github.com/Prateek462003/go-backend
 
 go 1.22.3
 

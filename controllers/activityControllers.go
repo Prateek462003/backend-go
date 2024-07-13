@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	models "github.com/Prateek462003/trello-backend/Models"
-	"github.com/Prateek462003/trello-backend/database"
+	models "github.com/Prateek462003/backend-go/Models"
+	"github.com/Prateek462003/backend-go/database"
 	"github.com/gin-gonic/gin"
 )
 
